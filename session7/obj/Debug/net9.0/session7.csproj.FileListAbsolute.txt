@@ -1,0 +1,15 @@
+D:\cybersoft_C#\cybersoft_CSharp\session7\bin\Debug\net9.0\session7.exe
+D:\cybersoft_C#\cybersoft_CSharp\session7\bin\Debug\net9.0\session7.deps.json
+D:\cybersoft_C#\cybersoft_CSharp\session7\bin\Debug\net9.0\session7.runtimeconfig.json
+D:\cybersoft_C#\cybersoft_CSharp\session7\bin\Debug\net9.0\session7.dll
+D:\cybersoft_C#\cybersoft_CSharp\session7\bin\Debug\net9.0\session7.pdb
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.GeneratedMSBuildEditorConfig.editorconfig
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.AssemblyInfoInputs.cache
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.AssemblyInfo.cs
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.csproj.CoreCompileInputs.cache
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.sourcelink.json
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.dll
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\refint\session7.dll
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.pdb
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\session7.genruntimeconfig.cache
+D:\cybersoft_C#\cybersoft_CSharp\session7\obj\Debug\net9.0\ref\session7.dll
