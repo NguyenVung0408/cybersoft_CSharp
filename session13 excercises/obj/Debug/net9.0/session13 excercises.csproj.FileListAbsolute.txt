@@ -1,0 +1,15 @@
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\bin\Debug\net9.0\session13 excercises.exe
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\bin\Debug\net9.0\session13 excercises.deps.json
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\bin\Debug\net9.0\session13 excercises.runtimeconfig.json
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\bin\Debug\net9.0\session13 excercises.dll
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\bin\Debug\net9.0\session13 excercises.pdb
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.GeneratedMSBuildEditorConfig.editorconfig
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.AssemblyInfoInputs.cache
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.AssemblyInfo.cs
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.csproj.CoreCompileInputs.cache
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.sourcelink.json
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.dll
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\refint\session13 excercises.dll
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.pdb
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.genruntimeconfig.cache
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\ref\session13 excercises.dll

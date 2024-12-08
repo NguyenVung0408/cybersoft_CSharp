@@ -27,7 +27,6 @@ internal partial class Program
         //     // Console.WriteLine(number);
         //     Console.Write(number);
         //     Console.Write(",");
-
         // }
         Console.WriteLine();
         // C1 dung Jion()
@@ -99,6 +98,14 @@ internal partial class Program
         //     Console.WriteLine(result);
         // }
 
+        #endregion
+
+        #region Tim hieu ve Dictionary trong Collection
+        Dictionary<string, string> dic = new Dictionary<string, string>();
+
+        // Thêm key-value vào dic 
+        dic.Add("Alice", "test");
+        dic["Do"]
         #endregion
     }
 }

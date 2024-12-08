@@ -53,7 +53,9 @@
             listNumbers.Insert(i, item);
 
             //C2: Dung add
+            // Add: Them phan tu vao cuoi danh sach
 
+            // listNumbers.Add(item);
         }
         // In list phan tu ra ngoai man hinh 
         // Co 2 cach duyet phan tu: for or foreach

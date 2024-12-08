@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSKapxgLfZs=",
+  "success": true,
+  "projectFilePath": "D:\\cybersoft_C#\\cybersoft_CSharp\\cybersoft_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
