@@ -13,3 +13,6 @@ D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\refint\se
 D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.pdb
 D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.genruntimeconfig.cache
 D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\ref\session13 excercises.dll
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session13 excercises.csproj.AssemblyReference.cache
+D:\cybersoft_C#\cybersoft_CSharp\session13 excercises\obj\Debug\net9.0\session1.EFD693D1.Up2Date
