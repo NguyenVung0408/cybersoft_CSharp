@@ -1,0 +1,15 @@
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\bin\Debug\net9.0\session15 exercises2.exe
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\bin\Debug\net9.0\session15 exercises2.deps.json
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\bin\Debug\net9.0\session15 exercises2.runtimeconfig.json
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\bin\Debug\net9.0\session15 exercises2.dll
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\bin\Debug\net9.0\session15 exercises2.pdb
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.GeneratedMSBuildEditorConfig.editorconfig
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.AssemblyInfoInputs.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.AssemblyInfo.cs
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.csproj.CoreCompileInputs.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.sourcelink.json
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.dll
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\refint\session15 exercises2.dll
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.pdb
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\session15 exercises2.genruntimeconfig.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session15 exercises2\obj\Debug\net9.0\ref\session15 exercises2.dll
