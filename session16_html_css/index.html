@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <!--Thẻ head chứa các thông tin thêm (metadata) của website không hiển thị trên trình duyệt-->
+    <!--SEO: Search Engine Optiization -->
+    <!--name, content: thuộc tính của thẻ meta-->
+    <meta name="description" content="CyberSoft coffee">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>CyberSoft coffee</title>
+</head>
+
+<body>
+    <!--text-align: căn vị trí của chữ-->
+    <!--color: màu chữ-->
+    <!--background-color: màu nền của thẻ-->
+    <h1 style="text-align: center; background-color: green; color: white">CyberSoft coffee</h1>
+
+
+    <div style="text-align: center;">
+        <!--Thẻ liên kết-->
+        <a href="#">Home</a>
+        <a href="#">Menu</a>
+        <!-- Liên kết ngoại -->
+        <a href="#" target="_blank">Order</a>
+    </div>
+
+    <!-- vẽ đường line -->
+    <!-- pixel: giá trị tuyệt đối. Không thay đổi kích thước mỗi khi thay đổi width -->
+    <!-- %: giá trị tương đối -->
+    <hr style="height: 5px; width: 50%;" noshade>
+
+    <h2 style="text-align: center; color: burlywood">About the coffee</h2>
+    <p style="text-align: right;">
+        <b>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</b>
+        <i>Amet iste dolorum tenetur ducimus optio odio corporis a vel inventore sequi,</i>
+        <b>
+            <i>ab velit tempora repudiandae nobis qui natus. Quisquam, illo odio?</i>
+        </b>
+        <br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <br>
+        Aliquid tenetur cumque adipisci ipsa pariatur quod beatae molestias expedita, atque dolores porro quam
+        reprehenderit, asperiores nisi commodi! Nesciunt repudiandae quasi officia!
+
+    </p>
+    <hr style="height: 5px; width: 50%;" noshade>
+    <h3 style="text-align: center; color: burlywood">Special Item</h3>
+    <h4>The coffee List 1</h4>
+    <!-- Thẻ danh sách -->
+    <!-- Không có thứ tự -->
+    <!-- ul ̣(ở ngoài), li (ở trong) -->
+    <ul type="circle">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+    <!-- Có thứ tự -->
+    <!-- ol ̣(ở ngoài), li (ở trong) -->
+    <ol type="I">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
+
+    <!-- Thẻ đọc hình -->
+    <!-- src: đường dẫn tới hình -->
+    <!-- đường dẫn tuyệt đối: không nên dùng -->
+    <!-- đường dẫn tương đối: nên dùng -->
+    <!-- alt: mô tả hình. Hỗ trợ SEO. Hỗ trợ web accessibility (dành cho người khuyệt tật). Hỗ trợ dev tìm lỗi khi không có hình  -->
+    <!-- ./: lấy các file, folder cùng cấp với file index.html -->
+    <!-- ../: nhảy ra 1 cấp folder cha -->
+    <img src="./img/chilling-cafe-01.jpg" alt="Coffee">
+    <hr style="height: 5px; width: 50%;" noshade>
+
+    <h3 style="text-align: center; color: burlywood;">Menu</h3>
+
+    <!-- Thẻ table -->
+    <!-- table -->
+    <table style="width: 800px; height: 300px; text-align: center;" border="4">
+        <tr>
+            <th colspan="2">Name</th>
+            <th>Type</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td style="color: red; background-image: url(./img/chilling-cafe-11.jpg);" rowspan="4">Traditional</td>
+            <td rowspan="2">Vietnamese</td>
+            <td>Hot</td>
+            <td>60.000 VND</td>
+        </tr>
+        <tr>
+            <td>Cold</td>
+            <td>28.000 VND</td>
+        </tr>
+        <tr>
+            <td rowspan="2">milk coffee</td>
+            <td>Hot</td>
+            <td>38.000 VND</td>
+        </tr>
+        <tr>
+            <td>Cold</td>
+            <td>54.000 VND</td>
+        </tr>
+        <tr>
+            <td style="color: red; background-image: url(./img/chilling-cafe-12.jpg);" rowspan="3">Expresso</td>
+            <td>Amecian Coffee</td>
+            <td rowspan="3">Hot</td>
+            <td>110.000 VND</td>
+        </tr>
+        <tr>
+            <td>Machiato</td>
+            <td rowspan="2">40.000 VND</td>
+        </tr>
+        <tr>
+            <td>Cappuchino</td>
+        </tr>
+
+    </table>
+
+
+</body>
+
+</html>

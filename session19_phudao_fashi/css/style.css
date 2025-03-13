@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+.header__top{
+    border-bottom: 1px solid #e5e5e5;
+}
+
+/* override class container cua bootstrap */
+.container{
+    display: flex; 
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header__top__left{
+    display: flex;
+    align-items: center;
+}
+
+.header__top__mail, .header__top__phone{
+    font-size: 16px;
+    color: #252525;
+    padding: 15px 20px;
+
+}
+
+.header__top__mail{
+    border-right: 1px solid #e5e5e5;
+}
+
+.header__top__mail i, .header__top__phone i{
+    margin-right: 5px;
+}
+
+/* header__top__right */
+.header__top__right{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.header__top__social, .header__top__lang {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    border-right: 1px solid #e5e5e5;
+
+    
+}
+.header__top_right a{
+    font-size: 16px;
+    color:#252525;
+    margin-right: 14px;
+
+}

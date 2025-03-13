@@ -1,0 +1,47 @@
+<!-- Cài đặt taildwindcss -->
+<!-- cài đặt nodejs -->
+<!-- terminal: npm init -> package.json -->
+<!-- 1. terminal: npm install -D tailwindcss@3
+npx tailwindcss init (npm i: download source js) -->
+<!-- 2. "./src/**/*.{html,js}" thêm vào content tại file tailwind.config.js -->
+<!-- 3. Tạo file input.css trong file src sau đó paste: 
+@tailwind base;
+@tailwind components;
+@tailwind utilities; -->
+<!-- 4. Thêm "start": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch" tại scripts sau "test" -->
+<!-- 5. terminal: npm start -->
+ <!-- Cài đặt flowbite -->
+<!-- 1. terminal: npm install flowbite -->
+ 
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./output.css">
+</head>
+
+<body>
+    <h1 class="text-red-700">Welcome.NET2</h1>
+    <div class="demo bg-yellow-300 h-screen">
+        <div class="demo1 hover:bg-green-500 duration-200 cursor-pointer bg-red-500 h-10 w-10"></div>
+        <div class="demo2 hover:bg-pink-500 duration-200 cursor-pointer bg-blue-500 h-10 w-10"></div>
+    </div>
+    <!-- responsive -->
+    <!-- mobile first, desktop first -->
+    <!-- breakpoint -->
+
+    <!--  dùng grid -->
+    <div class="grid__container">
+        <div class="item__1"></div>
+        <div class="item__2"></div>
+        <div class="item__3"></div>
+    </div>
+</body>
+
+</html>

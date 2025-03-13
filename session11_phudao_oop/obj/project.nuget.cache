@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wG7yUEdA4+k=",
+  "dgSpecHash": "h/ETnzcDPP8=",
   "success": true,
-  "projectFilePath": "D:\\cybersoft_C#\\cybersoft_CSharp\\session11_phudao_oop\\session11_phudao_oop.csproj",
+  "projectFilePath": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session11_phudao_oop\\session11_phudao_oop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\nguye\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

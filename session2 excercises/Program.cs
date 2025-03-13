@@ -56,4 +56,6 @@ Console.Write("Mời bạn nhập số tiền USD: ");
         double vndAmount = usdAmount * exchangeRate;
 
         Console.WriteLine($"Số tiền tương ứng bằng VND: {vndAmount}");
-#endregion
+       
+
+        #endregion

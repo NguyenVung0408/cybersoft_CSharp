@@ -1,0 +1,118 @@
+/* global: xóa các khoảng trắng của trình duyệt */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* B1: xóa dấu chấm trong danh sách */
+.header {
+    background-color: #f8e1db;
+}
+
+.header__content {
+    margin: 0 auto;
+    max-width: 1440px;
+}
+
+.header ul {
+    list-style: none;
+}
+
+/* B2: chuyển thẻ li từ block => inline */
+.header li {
+    display: inline;
+    margin: 20px;
+
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+}
+
+/* carousel */
+.carousel {
+    background-image: url(../img/BG.png);
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+
+/* activities */
+.activities {
+    /* 50px: top-bottom;
+        0px: left-right */
+    /* padding: 50px; top-bottom-left-right: 50px */
+    /* 4 số tính theo chiều kim đồng hồ
+        top-right-bottom-left
+        padding: 10px 15px 20px 25px; */
+    padding: 50px 0;
+    background-color: #faf4f2;
+}
+
+.activities__heading {
+    text-align: center;
+}
+
+.activities__item {
+    float: left;
+    width: 25%;
+
+    padding: 20px 10px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.activities__img img {
+    border-radius: 20px;
+}
+
+.activities__desc h3 {
+    font-size: 18px;
+    margin-top: 12px;
+}
+
+.activities__desc p {
+    margin-bottom: 25px;
+    ;
+    margin-top: 12px;
+}
+
+.activities__desc button {
+    padding: 13px 50px;
+    /* border: 1px solid gray; */
+    border: transparent;
+    border-radius: 25px;
+    color: #8d8d8d;
+    background-color: #e8e8e8;
+    letter-spacing: 1px;
+    /* khoảng cách giữa các chữ */
+    /* con trỏ chuột khi hover vào button */
+    cursor: pointer;
+}
+
+/* Khi hover vào button thì đổi màu chữ */
+
+.activities__desc button:hover,
+.activities__viewall:hover {
+    color: white;
+    background-color: #f8e1db;
+}
+
+.activities__viewall {
+    color: #e76f51;
+    border: 1px solid #e76f51;
+    border-radius: 25px;
+    padding: 13px 50px;
+    background-color: transparent;
+}
+
+.activities__view {
+    text-align: center;
+}
+/*  sau khi dùng float thì phải clear */
+.clear {
+    clear: both;
+}

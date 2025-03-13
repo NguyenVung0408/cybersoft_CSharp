@@ -1,0 +1,15 @@
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\bin\Debug\net9.0\session17_phudao_oop.exe
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\bin\Debug\net9.0\session17_phudao_oop.deps.json
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\bin\Debug\net9.0\session17_phudao_oop.runtimeconfig.json
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\bin\Debug\net9.0\session17_phudao_oop.dll
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\bin\Debug\net9.0\session17_phudao_oop.pdb
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.AssemblyInfoInputs.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.AssemblyInfo.cs
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.csproj.CoreCompileInputs.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.sourcelink.json
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.dll
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\refint\session17_phudao_oop.dll
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.pdb
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\session17_phudao_oop.genruntimeconfig.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session17_phudao_oop\obj\Debug\net9.0\ref\session17_phudao_oop.dll

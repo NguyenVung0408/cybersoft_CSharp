@@ -1,0 +1,6 @@
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\obj\Debug\net9.0\cybersoft_CSharp.csproj.AssemblyReference.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\obj\Debug\net9.0\cybersoft_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\obj\Debug\net9.0\cybersoft_CSharp.AssemblyInfoInputs.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\obj\Debug\net9.0\cybersoft_CSharp.AssemblyInfo.cs
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\obj\Debug\net9.0\cybersoft_CSharp.csproj.CoreCompileInputs.cache
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\obj\Debug\net9.0\cybersoft_CSharp.sourcelink.json
