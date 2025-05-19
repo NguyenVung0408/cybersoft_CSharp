@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iaUAcD4ouwo=",
+  "dgSpecHash": "vKs0RqLXQuU=",
   "success": true,
   "projectFilePath": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session30_airbnb\\session30_airbnb.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,9 @@
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.jsinterop\\9.0.0\\microsoft.jsinterop.9.0.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.0\\microsoft.jsinterop.webassembly.9.0.0.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.0\\microsoft.net.sdk.webassembly.pack.9.0.0.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.0\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.0.nupkg.sha512"
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.3\\microsoft.net.illink.tasks.9.0.3.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.5\\microsoft.net.sdk.webassembly.pack.9.0.5.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.5.nupkg.sha512"
   ],
   "logs": []
 }

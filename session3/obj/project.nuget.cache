@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mu6p2QOHmUo=",
+  "dgSpecHash": "FblkjeBC4qY=",
   "success": true,
   "projectFilePath": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session3\\session3.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

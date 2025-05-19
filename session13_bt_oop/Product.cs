@@ -64,6 +64,8 @@ class Product
         }
     }
 
+    public int ProductID { get; internal set; }
+
     public Product(int productId, string productName, double price, string description)
     {
         ProductId = productId;  

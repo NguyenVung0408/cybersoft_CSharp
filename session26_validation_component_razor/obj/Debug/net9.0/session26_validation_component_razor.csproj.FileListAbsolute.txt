@@ -1075,10 +1075,10 @@ D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_compon
 D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\session26_validation_component_razor.pdb
 D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\ref\session26_validation_component_razor.dll
 D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\compressed\rmqmkrpm7b-6olq5xa23n.gz
-D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.zbybx6go8v.pdb
-D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.g35nijjtq2.wasm
-D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.zbybx6go8v.pdb.gz
-D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.g35nijjtq2.wasm.gz
-D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\compressed\ucdasuqyre-g35nijjtq2.gz
-D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\compressed\db3q5cgxob-zbybx6go8v.gz
-D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\compressed\ut2z11wplu-62umyqt0zt.gz
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.1udv81jmxl.pdb
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.gemzbyn3q6.wasm
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.1udv81jmxl.pdb.gz
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\bin\Debug\net9.0\wwwroot\_framework\session26_validation_component_razor.gemzbyn3q6.wasm.gz
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\compressed\ucdasuqyre-gemzbyn3q6.gz
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\compressed\db3q5cgxob-1udv81jmxl.gz
+D:\nguye\Documents\cybersoft_dotnet\cybersoft_CSharp\session26_validation_component_razor\obj\Debug\net9.0\compressed\ut2z11wplu-og56kuede8.gz

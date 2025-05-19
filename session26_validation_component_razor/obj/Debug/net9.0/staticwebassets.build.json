@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8tA7+AZh6f9S4QMdYGs2ZT18wWp3IJPB0E1zqdMl49A=",
+  "Hash": "4yY2OWHsHMzuOeyxx9c4yf6DO1SUs/tpK4HBUWinSzc=",
   "Source": "session26_validation_component_razor",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "62umyqt0zt",
-      "Integrity": "UuQHv29BN52/++dtg5X8ws7IRu3HM5Bqmzqu99OAvSc=",
+      "Fingerprint": "og56kuede8",
+      "Integrity": "2LJhrcFACGXJR57qk3MFCM0vcQzwJrkXWsnnFkZAPNI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "zbybx6go8v",
-      "Integrity": "ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4=",
+      "Fingerprint": "1udv81jmxl",
+      "Integrity": "ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\session26_validation_component_razor.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "g35nijjtq2",
-      "Integrity": "jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI=",
+      "Fingerprint": "gemzbyn3q6",
+      "Integrity": "KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\webcil\\session26_validation_component_razor.wasm"
@@ -6275,12 +6275,12 @@
       "OriginalItemSpec": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
     },
     {
-      "Identity": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-zbybx6go8v.gz",
+      "Identity": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-1udv81jmxl.gz",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=zbybx6go8v}]!.pdb.gz",
+      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=1udv81jmxl}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6289,8 +6289,8 @@
       "RelatedAsset": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8ptlcz6140",
-      "Integrity": "nCG0kcsLf8oxkpGptAPwvTGL5uFGdblnjpp2G6Nlqp4=",
+      "Fingerprint": "xuyje7m5om",
+      "Integrity": "x969IfaStwO7iQ9cWtscmjpD2ndepBIUJkCCvDmJQOs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb"
@@ -8627,12 +8627,12 @@
       "OriginalItemSpec": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-g35nijjtq2.gz",
+      "Identity": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-gemzbyn3q6.gz",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=g35nijjtq2}]!.wasm.gz",
+      "RelativePath": "_framework/session26_validation_component_razor#[.{fingerprint=gemzbyn3q6}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8641,8 +8641,8 @@
       "RelatedAsset": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ygwjrk6ok8",
-      "Integrity": "3qlklENE+c2nxYzDcxCeUKop529swI3tRq9gb+2fQRI=",
+      "Fingerprint": "gzowsarnwc",
+      "Integrity": "hEVCcLAuNbagNsP7O1b0lUOjdfehVoVy+UjCxtVsYRE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm"
@@ -8732,7 +8732,7 @@
       "OriginalItemSpec": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-62umyqt0zt.gz",
+      "Identity": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-og56kuede8.gz",
       "SourceId": "session26_validation_component_razor",
       "SourceType": "Computed",
       "ContentRoot": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\",
@@ -8746,8 +8746,8 @@
       "RelatedAsset": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "06dvvnos2p",
-      "Integrity": "mPBriK1NHSX9a1+OD/euW2eyvK8BOzAVGrXPfarypcw=",
+      "Fingerprint": "pe4p7swk7y",
+      "Integrity": "kTnNwD3b8kEn5qk04kPxhVUBmsl5bYNPNg3LIQ9mGbI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -10726,11 +10726,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UuQHv29BN52/++dtg5X8ws7IRu3HM5Bqmzqu99OAvSc=\""
+          "Value": "\"2LJhrcFACGXJR57qk3MFCM0vcQzwJrkXWsnnFkZAPNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Mar 2025 11:45:24 GMT"
+          "Value": "Fri, 14 Mar 2025 07:02:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10740,18 +10740,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UuQHv29BN52/++dtg5X8ws7IRu3HM5Bqmzqu99OAvSc="
+          "Value": "sha256-2LJhrcFACGXJR57qk3MFCM0vcQzwJrkXWsnnFkZAPNI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-62umyqt0zt.gz",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-og56kuede8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081070126"
+          "Quality": "0.000081063554"
         }
       ],
       "ResponseHeaders": [
@@ -10761,15 +10761,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12334"
+          "Value": "12335"
         },
         {
           "Name": "ETag",
-          "Value": "\"mPBriK1NHSX9a1+OD/euW2eyvK8BOzAVGrXPfarypcw=\""
+          "Value": "\"kTnNwD3b8kEn5qk04kPxhVUBmsl5bYNPNg3LIQ9mGbI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
+          "Value": "Fri, 14 Mar 2025 00:49:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10789,19 +10789,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UuQHv29BN52/++dtg5X8ws7IRu3HM5Bqmzqu99OAvSc=\""
+          "Value": "W/\"2LJhrcFACGXJR57qk3MFCM0vcQzwJrkXWsnnFkZAPNI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UuQHv29BN52/++dtg5X8ws7IRu3HM5Bqmzqu99OAvSc="
+          "Value": "sha256-2LJhrcFACGXJR57qk3MFCM0vcQzwJrkXWsnnFkZAPNI="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-62umyqt0zt.gz",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ut2z11wplu-og56kuede8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10810,7 +10810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12334"
+          "Value": "12335"
         },
         {
           "Name": "Content-Type",
@@ -10818,11 +10818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mPBriK1NHSX9a1+OD/euW2eyvK8BOzAVGrXPfarypcw=\""
+          "Value": "\"kTnNwD3b8kEn5qk04kPxhVUBmsl5bYNPNg3LIQ9mGbI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
+          "Value": "Fri, 14 Mar 2025 00:49:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10840,7 +10840,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mPBriK1NHSX9a1+OD/euW2eyvK8BOzAVGrXPfarypcw="
+          "Value": "sha256-kTnNwD3b8kEn5qk04kPxhVUBmsl5bYNPNg3LIQ9mGbI="
         }
       ]
     },
@@ -22306,168 +22306,7 @@
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.g35nijjtq2.wasm",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "38165"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g35nijjtq2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/session26_validation_component_razor.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.g35nijjtq2.wasm",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-g35nijjtq2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000066970265"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14931"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qlklENE+c2nxYzDcxCeUKop529swI3tRq9gb+2fQRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g35nijjtq2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/session26_validation_component_razor.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.g35nijjtq2.wasm.gz",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-g35nijjtq2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14931"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qlklENE+c2nxYzDcxCeUKop529swI3tRq9gb+2fQRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g35nijjtq2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/session26_validation_component_razor.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3qlklENE+c2nxYzDcxCeUKop529swI3tRq9gb+2fQRI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.pdb",
+      "Route": "_framework/session26_validation_component_razor.1udv81jmxl.pdb",
       "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22477,7 +22316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36340"
+          "Value": "36344"
         },
         {
           "Name": "Content-Type",
@@ -22485,27 +22324,35 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4=\""
+          "Value": "\"ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:00 GMT"
+          "Value": "Fri, 14 Mar 2025 00:49:09 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "1udv81jmxl"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/session26_validation_component_razor.pdb"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4="
+          "Value": "sha256-ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs="
         }
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.pdb",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-zbybx6go8v.gz",
+      "Route": "_framework/session26_validation_component_razor.1udv81jmxl.pdb",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-1udv81jmxl.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -22524,256 +22371,37 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nCG0kcsLf8oxkpGptAPwvTGL5uFGdblnjpp2G6Nlqp4=\""
+          "Value": "\"x969IfaStwO7iQ9cWtscmjpD2ndepBIUJkCCvDmJQOs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.pdb.gz",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-zbybx6go8v.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27773"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nCG0kcsLf8oxkpGptAPwvTGL5uFGdblnjpp2G6Nlqp4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-nCG0kcsLf8oxkpGptAPwvTGL5uFGdblnjpp2G6Nlqp4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.wasm",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "38165"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.wasm",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-g35nijjtq2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000066970265"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14931"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qlklENE+c2nxYzDcxCeUKop529swI3tRq9gb+2fQRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jGdVb30W16di39EYjKODjcb1uNkaF5jtRglraVZx+QI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.wasm.gz",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-g35nijjtq2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14931"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3qlklENE+c2nxYzDcxCeUKop529swI3tRq9gb+2fQRI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3qlklENE+c2nxYzDcxCeUKop529swI3tRq9gb+2fQRI="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.zbybx6go8v.pdb",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "36340"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:00 GMT"
+          "Value": "Fri, 14 Mar 2025 00:49:10 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zbybx6go8v"
+          "Value": "1udv81jmxl"
         },
         {
           "Name": "label",
@@ -22781,76 +22409,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4="
+          "Value": "sha256-ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs="
         }
       ]
     },
     {
-      "Route": "_framework/session26_validation_component_razor.zbybx6go8v.pdb",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-zbybx6go8v.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000036004897"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "27773"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"nCG0kcsLf8oxkpGptAPwvTGL5uFGdblnjpp2G6Nlqp4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zbybx6go8v"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/session26_validation_component_razor.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ceS+YYoRN5WnOh7LBc5RY6DXdSqPIKek8EDIb8aOLr4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/session26_validation_component_razor.zbybx6go8v.pdb.gz",
-      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-zbybx6go8v.gz",
+      "Route": "_framework/session26_validation_component_razor.1udv81jmxl.pdb.gz",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-1udv81jmxl.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22867,11 +22432,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nCG0kcsLf8oxkpGptAPwvTGL5uFGdblnjpp2G6Nlqp4=\""
+          "Value": "\"x969IfaStwO7iQ9cWtscmjpD2ndepBIUJkCCvDmJQOs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 12 Feb 2025 14:22:01 GMT"
+          "Value": "Fri, 14 Mar 2025 00:49:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22889,7 +22454,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zbybx6go8v"
+          "Value": "1udv81jmxl"
         },
         {
           "Name": "label",
@@ -22897,7 +22462,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nCG0kcsLf8oxkpGptAPwvTGL5uFGdblnjpp2G6Nlqp4="
+          "Value": "sha256-x969IfaStwO7iQ9cWtscmjpD2ndepBIUJkCCvDmJQOs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.gemzbyn3q6.wasm",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:08:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gemzbyn3q6"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/session26_validation_component_razor.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.gemzbyn3q6.wasm",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-gemzbyn3q6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000066979236"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEVCcLAuNbagNsP7O1b0lUOjdfehVoVy+UjCxtVsYRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:08:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gemzbyn3q6"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/session26_validation_component_razor.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.gemzbyn3q6.wasm.gz",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-gemzbyn3q6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEVCcLAuNbagNsP7O1b0lUOjdfehVoVy+UjCxtVsYRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:08:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gemzbyn3q6"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/session26_validation_component_razor.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEVCcLAuNbagNsP7O1b0lUOjdfehVoVy+UjCxtVsYRE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.pdb",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:49:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.pdb",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-1udv81jmxl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000036004897"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27773"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x969IfaStwO7iQ9cWtscmjpD2ndepBIUJkCCvDmJQOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:49:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybPauM9l48RLwsehWjWt2zpL8Jif81Y652F5nHdp6bs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.pdb.gz",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\db3q5cgxob-1udv81jmxl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x969IfaStwO7iQ9cWtscmjpD2ndepBIUJkCCvDmJQOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:49:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x969IfaStwO7iQ9cWtscmjpD2ndepBIUJkCCvDmJQOs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.wasm",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\session26_validation_component_razor.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38165"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:08:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.wasm",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-gemzbyn3q6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000066979236"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14929"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEVCcLAuNbagNsP7O1b0lUOjdfehVoVy+UjCxtVsYRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:08:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KD909hPW+RBMDa1cFuPdjS6kqlZI2yaXmU+9WaMRt/Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/session26_validation_component_razor.wasm.gz",
+      "AssetFile": "D:\\nguye\\Documents\\cybersoft_dotnet\\cybersoft_CSharp\\session26_validation_component_razor\\obj\\Debug\\net9.0\\compressed\\ucdasuqyre-gemzbyn3q6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hEVCcLAuNbagNsP7O1b0lUOjdfehVoVy+UjCxtVsYRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Mar 2025 00:08:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hEVCcLAuNbagNsP7O1b0lUOjdfehVoVy+UjCxtVsYRE="
         }
       ]
     },
